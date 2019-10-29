@@ -1,2 +1,1 @@
-PW ={'re100','jkl','lor','bor','kor','sor','for','hor','mor','qor','aaz','zza','eer','rre','mrzy','zrt','frt','his','moio','sami','aze'}
- 
+PW = {'kwhssjh'}
